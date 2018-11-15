@@ -61,4 +61,4 @@ Por ejemplo para iniciar una nueva aplicación correr
 $ docker-compose run web django-admin.py startapp <Nombre de la app>
 ```
 
-que ha pasao 
+que ha pasao pringao 
